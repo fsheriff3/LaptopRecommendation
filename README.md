@@ -1,6 +1,16 @@
 # Laptop-Recommendation
 ## Lenovo IdeaPad 3i 
 <img width="1181" alt="Screenshot 2023-07-18 at 11 54 08 AM" src="https://github.com/fsheriff3/LaptopRecommendation/assets/139291978/c5129237-a050-491c-841d-a8b412925058">
+Primary resources: Standing screen display size	‎14 Inches
+Screen Resolution	‎1920 x 1080 pixels
+Max Screen Resolution	‎1920 x 1080 Pixels
+Processor	‎3 GHz core_i3
+RAM	‎8 GB DDR4
+Hard Drive	‎512 GB SSD
+Graphics Coprocessor	‎Intel UHD Graphics
+Chipset Brand	‎Intel
+Card Description	‎Integrated
+
 Pros:
 
 - Hard Disk Size	512 GB
@@ -37,6 +47,9 @@ Pros:
 - Maximum RAM Supported: 8 GB
 - CPU Benchmark Score: 11,185
 - Battery Life: 10 h
+
+  # Overview
+  ## compared to the CEO's recommended Ideapad 1 15.6" HD Laptop, The two recommendations above demonstrates powerful, quick, and environmentally responsible durability. Acer's newest Chromebook Vero maximizes performance while utilizing a technologically innovative chassis created from recycled materials for less harm and more earthly kindness. Not only does it have the most recent 12th Gen Intel® CoreTM i3 processor and built-to-last toughness. Lenvo IdeaPad 3i provides satisfying performance and battery life while embracing sustainability. 
 
 Refrences: 
 - https://www.amazon.com/Lenovo-IdeaPad-Business-Student-i3-1115G4/dp/B0BSR6N4WY/ref=sr_1_2_sspa?crid=31ZBEMBLDQUC1&keywords=lenovo%2Blaptop&qid=1689560155&refinements=p_n_feature_thirty-three_browse-bin%3A23720419011&rnid=23720416011&s=pc&sprefix=lenovo%2B%2Caps%2C196&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1
