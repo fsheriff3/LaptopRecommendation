@@ -9,6 +9,28 @@ Pros:
 
  ## Acer Chromebook Vero 514 14" FHD IPS
  <img width="1333" alt="Screenshot 2023-07-18 at 12 18 26 PM" src="https://github.com/fsheriff3/LaptopRecommendation/assets/139291978/eb331e41-be92-41db-93a4-b499ee48d6ff">
+Primary resources: Operating System
+Chrome OS
+Processor Type
+12th Generation Intel Core i3-1215U
+RAM Memory
+8 GB
+Screen Size
+14 in
+Battery Life
+10 h
+Maximum RAM Supported
+8 GB
+Processor Speed
+4.4 GHz
+Brand
+Acer
+Condition
+New
+Manufacturer Part Number
+NX.KAJAA.004
+Model
+CBV514-1H-34X9
 
 Pros:
 
